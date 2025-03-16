@@ -1,5 +1,5 @@
 # Purpose:
-To find the average listing price of a Magic the Gathering Card from 3 different websites.
+To find the average listing price of a Magic the Gathering Card from different sources
 
 
 # Status:
